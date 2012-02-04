@@ -48,7 +48,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="6" selection-start="193" selection-end="193" vertical-scroll-proportion="0.6241901">
+            <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.6241901">
               <folding />
             </state>
           </provider>
@@ -57,7 +57,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="207" column="105" selection-start="4708" selection-end="4708" vertical-scroll-proportion="-1.3076923">
+            <state line="206" column="53" selection-start="4683" selection-end="4683" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
@@ -386,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="105" selection-start="4708" selection-end="4708" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="7" selection-start="276" selection-end="283" vertical-scroll-proportion="0.0">
@@ -400,9 +393,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="53" selection-start="4683" selection-end="4683" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="6" selection-start="193" selection-end="193" vertical-scroll-proportion="0.6241901">
+        <state line="17" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.6241901">
           <folding />
         </state>
       </provider>
