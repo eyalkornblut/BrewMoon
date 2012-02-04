@@ -1,4 +1,16 @@
 BrewMoon::Application.routes.draw do
+  get "pages/home"
+
+  get "pages/about"
+
+  get "pages/team"
+
+  get "pages/cafe"
+
+  get "pages/brewing"
+
+  get "pages/beers"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
