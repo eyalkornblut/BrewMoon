@@ -14,6 +14,8 @@ gem 'jquery-rails'
 
 gem 'heroku'
 gem 'execjs'
+gem 'therubyrhino'
+#gem 'Johnson'
 #gem 'therubyracer'
 
 #gem 'json'
