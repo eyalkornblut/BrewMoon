@@ -2,8 +2,6 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.1.1'
 
-gem 'sqlite3'
-
 group :assets do
   gem 'sass-rails',   '~> 3.1.4'
   gem 'coffee-rails', '~> 3.1.1'
@@ -19,7 +17,7 @@ gem 'therubyrhino'
 gem 'json'
 
 group :development do
-  #gem 'sqlite3'
+  gem 'sqlite3'
   #gem 'sqlite3-ruby', :require => 'sqlite3'
   gem 'rspec-rails', '2.6.1'
   gem 'annotate', '2.4.0'
