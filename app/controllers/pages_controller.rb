@@ -20,7 +20,7 @@ class PagesController < ApplicationController
   end
 
   def beers
-    @title = "The beers !"
+    @title = "The beers"
   end
 
 end

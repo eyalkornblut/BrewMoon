@@ -1,15 +1,12 @@
 BrewMoon::Application.routes.draw do
-  get "pages/home"
 
-  get "pages/about"
+  match '/about',   :to => 'pages#about'
+  match '/team',   :to => 'pages#team'
+  match '/cafe',   :to => 'pages#cafe'
+  match '/brewing',   :to => 'pages#brewing'
+  match '/beers',   :to => 'pages#beers'
 
-  get "pages/team"
-
-  get "pages/cafe"
-
-  get "pages/brewing"
-
-  get "pages/beers"
+  root :to => 'pages#home'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
