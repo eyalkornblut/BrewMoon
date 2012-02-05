@@ -11,13 +11,14 @@ height: 96%;
 }
 
 body{
-    background-color: #add8e6;
+    /*background: url("border_piece_white.jpg") repeat scroll 0 0 #F5F6F7;*/
+    background: url("B & W logo.jpg");
 }
 
 .container {
     background-color: black;
     border-radius: 6px;
-    box-shadow: 0 1px 25px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 25px rgba(0, 0, 0, 1);
     margin-top: 10px;
     padding: 20px;
     min-height: 100%;
@@ -32,3 +33,40 @@ body{
 
 #logo { max-width:100%; }
 
+a{
+    color: white;
+    font-family: Tempus Sans ITC;
+    font-size: 26px;
+    text-decoration: none;
+}
+
+.navigation_list li{
+    display: inline;
+    margin-right: 5px;
+    color: white;
+    font-family: Tempus Sans ITC;
+    font-size: 28px;
+}
+
+.navigation_list{
+    margin: 0px
+}
+
+hr{
+    background: url("border_horisontal.jpg");
+    height: 10px;
+    border: 0;
+    margin: 0px;
+}
+
+<!--[if IE]>
+ hr {
+    display : list-item;
+    list-style : url(border_horisontal.jpg) inside;
+    filter : alpha(opacity=0);
+    margin-left: -10px;
+    width : 0;
+     height: 10px;
+     margin: 0px;
+  }
+<![endif]-->

@@ -1,7 +1,7 @@
 module ApplicationHelper
 
   def logo
-    image_tag("logo.gif", :alt => "Brew Moon Logo", :id =>"logo" , :class => "round")
+    image_tag("logo.jpg", :alt => "Brew Moon Logo", :id =>"logo" , :class => "round")
   end
 
   # Return a title on a per-page basis.

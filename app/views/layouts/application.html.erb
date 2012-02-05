@@ -17,7 +17,9 @@
         </div>
 
         <div class="span-18 last">
+          <hr/>
           <%= render 'layouts/header' %>
+          <hr/>
           <section class="round">
             <% flash.each do |key, value| %>
               <%= content_tag(:div, value, :class => "flash #{key}") %>
@@ -28,6 +30,7 @@
       </div>
 
       <div id="footer" class="span-24 prepend-top">
+        <hr/>
         <%= render 'layouts/footer' %>
       </div>
     </div>
