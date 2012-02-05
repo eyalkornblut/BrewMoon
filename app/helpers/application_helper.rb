@@ -1,12 +1,12 @@
 module ApplicationHelper
 
   def logo
-    image_tag("logo.png", :alt => "The Logo", :class => "round")
+    image_tag("logo.gif", :alt => "Brew Moon Logo", :id =>"logo" , :class => "round")
   end
 
   # Return a title on a per-page basis.
   def title
-    base_title = "That's a good moon for brewing..."
+    base_title = "That's a good moon for brewing"
     if @title.nil?
       base_title
     else
