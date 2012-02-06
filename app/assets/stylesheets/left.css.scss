@@ -1,0 +1,30 @@
+.left{
+
+    #logo {
+        max-width:100%;
+        margin-top: -5px;
+        margin-left: -5px;
+    }
+
+    .Notice_board{
+        background-color: white;
+        color: black;
+        border-radius: 6px;
+        border-style: ridge;
+        border-width: 4px;
+        box-shadow: inset 0 1px 5px rgba(0, 0, 0, 1);
+        margin-right: 4px;
+        padding:10px;
+    }
+
+    h2{
+        font-size:26px;
+    }
+
+    ul li{
+        font-size: 20px;
+    }
+
+}
+
+

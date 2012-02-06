@@ -12,25 +12,26 @@
 
       <div class="span-24 last">
 
-        <div id="left" class="span-6">
+        <div class="left span-6">
           <%= render 'layouts/left' %>
         </div>
 
         <div class="span-18 last">
-          <hr/>
           <%= render 'layouts/header' %>
-          <hr/>
-          <section class="round">
+          <p/>
+          <section class="pages round">
             <% flash.each do |key, value| %>
               <%= content_tag(:div, value, :class => "flash #{key}") %>
             <% end %>
-            <%= yield %>
+            <div class="span-18 last">
+                <%= yield %>
+            </div>
           </section>
         </div>
       </div>
 
-      <div id="footer" class="span-24 prepend-top">
-        <hr/>
+      <div class="span-24 prepend-top last">
+        <p/>
         <%= render 'layouts/footer' %>
       </div>
     </div>
