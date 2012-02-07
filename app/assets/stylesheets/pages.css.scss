@@ -7,8 +7,30 @@
         color: white;
     }
 
+    h3{
+        color: green;
+    }
+
+    .highlight-text{
+        color: green;
+    }
+
+    h4{
+        color: white;
+        font-size:30px;
+    }
+
     p{
         font-size: 20px;
+    }
+
+    .beer-img{
+        float: left;
+        margin-right:10px;
+    }
+
+    .beer-order-link{
+        float: right;
     }
 }
 

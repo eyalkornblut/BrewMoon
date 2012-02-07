@@ -1,2 +1,39 @@
-<h1>Pages#beers</h1>
-<p>Find me in app/views/pages/beers.html.erb</p>
+<h1>The Beers</h1>
+<p>The Brew Moon Brewing Co is a completely independent craft brewery. We produce a small range of microbrews in 600L batches at our brewery near Amberley. Our beers are made from the best malted grains, hops, yeast and pure Amberley well water. They take longer to produce than most commercial brews because we do not pasteurise or filter as we believe that these practices remove flavour  and reduce the natural health-giving qualities of our beer.</p>
+
+<div class="span-18 last">
+    <%= image_tag("beer - hophead organic ipa.png", :class => "beer-img") %>
+    <p class="prepend-top">
+        Hophead Organic IPA  - This organic beer is our most heavily hopped beer . It has a rich malt flavour, a fresh floral character and a crisp hop bitterness balanced by the high alchol. ( 5%Alc.)
+    </p>
+    <p class="beer-order-link">
+      Its $40 per 12pack - <%= link_to "Order It", beers_path %>
+    </p>
+</div>
+<div class="span-18 last prepend-top">
+    <%= image_tag("beer - amberly pale ale.png", :class => "beer-img") %>
+    <p class="prepend-top">
+        Amberley Pale Ale - has clean nutty malt flavours and a crisp hop bitterness combined with a fresh citrus hop aroma. ( 4% Alc.)
+    </p>
+  <p class="beer-order-link">
+    Its $40 per 12pack - <%= link_to "Order It", beers_path %>
+  </p>
+</div>
+<div class="span-18 last prepend-top">
+    <%= image_tag("beer - broomfield brown ale.png", :class => "beer-img") %>
+    <p class="prepend-top">
+        Broomfield Brown Ale – based on traditional English mild ales this 4% beer is big on malt and nutty flavours.  A low hopping rate allows the darker malts to impress.  (4%Alc.)
+    </p>
+  <p class="beer-order-link">
+    Its $40 per 12pack - <%= link_to "Order It", beers_path %>
+  </p>
+</div>
+<div class="span-18 last prepend-top">
+    <%= image_tag("beer - dark side stout.png", :class => "beer-img") %>
+    <p class="prepend-top">
+        Dark Side (of the Moon) Stout - is strong, dark and full flavoured. The chocolate malts and roast barley balance the higher alcohol, giving a beer that is creamy and easy to drink. ( 6%Alc.)
+    </p>
+  <p class="beer-order-link">
+    Its $40 per 12pack - <%= link_to "Order It", beers_path %>
+  </p>
+</div>
