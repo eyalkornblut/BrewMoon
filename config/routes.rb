@@ -1,6 +1,6 @@
 BrewMoon::Application.routes.draw do
 
-  match '/about',   :to => 'pages#about'
+  match '/orders',   :to => 'pages#orders'
   match '/team',   :to => 'pages#team'
   match '/cafe',   :to => 'pages#cafe'
   match '/brewing',   :to => 'pages#brewing'

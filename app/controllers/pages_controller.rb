@@ -3,8 +3,8 @@ class PagesController < ApplicationController
     @title = "The moon"
   end
 
-  def about
-    @title = "About"
+  def orders
+    @title = "Orders"
   end
 
   def team

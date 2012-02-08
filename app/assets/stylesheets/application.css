@@ -27,6 +27,32 @@ body{
     padding: 20px;
 }
 
+h1{
+    color: white;
+}
+
+h2{
+    font-size:26px;
+}
+
+h3{
+    color: white;
+    font-size:30px;
+    text-align: center;
+}
+
+.green-glow{
+    color: #0c0;
+    text-shadow: -1px 1px 8px green, 1px -1px 8px #0c0;
+    font-size:110%;
+}
+
+.blue-glow{
+    color: #06f;
+    text-shadow: -1px 1px 8px blue, 1px -1px 8px #06f;
+    /*font-size:110%;*/
+}
+
 hr{
     background: url("border_horisontal.jpg");
     height: 10px;
@@ -43,3 +69,5 @@ hr{
      height: 10px;
   }
 <![endif]-->
+
+

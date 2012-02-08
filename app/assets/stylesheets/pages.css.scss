@@ -3,25 +3,16 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .pages{
-    h1{
-        color: white;
-    }
-
-    h3{
-        color: green;
-    }
-
-    .highlight-text{
-        color: green;
-    }
-
-    h4{
-        color: white;
-        font-size:30px;
-    }
-
     p{
         font-size: 20px;
+    }
+
+    .bigger-text{
+        font-size:120%;
+    }
+
+    .narrow{
+        width:50%;
     }
 
     .beer-img{
@@ -32,6 +23,19 @@
     .beer-order-link{
         float: right;
     }
+
+    table{
+        font-size: 20px;
+
+        tr:nth-child(odd) td {
+            background-color:transparent;
+        }
+
+        tr:nth-child(even) td {
+            background-color:transparent;
+        }
+    }
+
 }
 
 

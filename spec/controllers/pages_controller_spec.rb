@@ -9,9 +9,9 @@ describe PagesController do
     end
   end
 
-  describe "GET 'about'" do
+  describe "GET 'orders'" do
     it "should be successful" do
-      get 'about'
+      get 'orders'
       response.should be_success
     end
   end
