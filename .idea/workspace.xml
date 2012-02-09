@@ -27,33 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="30" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brewing.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/brewing.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="14" selection-start="1202" selection-end="1210" vertical-scroll-proportion="-8.538462">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,7 +39,7 @@
       <file leaf-file-name="beers.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/beers.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="17" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-14.307693">
+            <state line="34" column="63" selection-start="1787" selection-end="1825" vertical-scroll-proportion="-12.346154">
               <folding />
             </state>
           </provider>
@@ -84,7 +57,7 @@
       <file leaf-file-name="cafe.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/cafe.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.230769">
+            <state line="0" column="18" selection-start="17" selection-end="18" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -99,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.84719104">
+            <state line="35" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,7 +84,34 @@
       <file leaf-file-name="orders.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/orders.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="18" selection-start="837" selection-end="845" vertical-scroll-proportion="-5.1538463">
+            <state line="39" column="53" selection-start="1205" selection-end="1205" vertical-scroll-proportion="-11.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="6" selection-start="260" selection-end="260" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="32" selection-start="120" selection-end="120" vertical-scroll-proportion="0.152809">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.css.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="185" selection-end="223" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/left.css.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/brewing.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
@@ -140,13 +138,15 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/header.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/pages/orders.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/beers.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_left.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/cafe.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/team.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/pages/orders.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss" />
       </list>
     </option>
   </component>
@@ -747,20 +747,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/left.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="262" selection-end="316" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="27" selection-start="357" selection-end="382" vertical-scroll-proportion="-3.2692308">
@@ -796,30 +782,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="30" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/brewing.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="14" selection-start="1202" selection-end="1210" vertical-scroll-proportion="-8.538462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/orders.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="18" selection-start="837" selection-end="845" vertical-scroll-proportion="-5.1538463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/beers.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="17" selection-start="1840" selection-end="1840" vertical-scroll-proportion="-14.307693">
           <folding />
         </state>
       </provider>
@@ -838,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/cafe.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="516" selection-end="516" vertical-scroll-proportion="-5.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/team.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="6" selection-start="1115" selection-end="1115" vertical-scroll-proportion="-8.5">
@@ -854,7 +812,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.84719104">
+        <state line="35" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/beers.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="63" selection-start="1787" selection-end="1825" vertical-scroll-proportion="-12.346154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/cafe.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="17" selection-end="18" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/orders.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="53" selection-start="1205" selection-end="1205" vertical-scroll-proportion="-11.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="260" selection-end="260" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="185" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="120" selection-end="120" vertical-scroll-proportion="0.152809">
           <folding />
         </state>
       </provider>
