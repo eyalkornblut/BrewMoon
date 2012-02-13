@@ -13,7 +13,7 @@ html, body {
 
 body{
     /*background: url("border_piece_white.jpg") repeat scroll 0 0 #F5F6F7;*/
-    background: url("B & W logo2.jpg") no-repeat;
+    background: url("B & W logo2.jpg") no-repeat center top;
 }
 
 .container {
