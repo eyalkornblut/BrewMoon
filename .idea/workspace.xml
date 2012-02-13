@@ -27,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_footer.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="314" selection-end="314" vertical-scroll-proportion="0.2735632">
+            <state line="2" column="26" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -72,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+            <state line="10" column="37" selection-start="231" selection-end="231" vertical-scroll-proportion="0.36876357">
               <folding />
             </state>
           </provider>
@@ -127,8 +127,8 @@
         <option value="$PROJECT_DIR$/app/views/pages/orders.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss" />
       </list>
     </option>
   </component>
@@ -687,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/brewing.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="75" selection-start="4294" selection-end="4294" vertical-scroll-proportion="-0.65384614">
@@ -710,7 +703,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="314" selection-end="314" vertical-scroll-proportion="0.2735632">
+        <state line="2" column="26" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="37" selection-start="231" selection-end="231" vertical-scroll-proportion="0.36876357">
           <folding />
         </state>
       </provider>
