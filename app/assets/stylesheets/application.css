@@ -80,5 +80,52 @@ hr{
     border: 0;
 }
 
+<!--[if IE]>
+ hr {
+    display : list-item;
+    list-style : url(border_horisontal.jpg) inside;
+    filter : alpha(opacity=0);
+    margin-left: -10px;
+    width : 0;
+     height: 10px;
+  }
+<![endif]-->
+
+/*Header Styles*/
+/*Heroku doesnt accepts the dedicated header.css.scc file*/
+
+a{
+    font-size: 26px;
+    color: white;
+    text-decoration: none;
+}
+
+ul li{
+    display: inline;
+    margin-right: 5px;
+    font-size: 28px;
+}
+
+ul{
+    margin: 0px;
+}
+
+hr{
+    margin:0px;
+}
+
+/*Footer Styles*/
+/*Heroku doesnt accepts the dedicated footer.css.scc file*/
+
+.footer-text{
+        font-size: 16px;
+        /*margin-bottom:-5px;*/
+}
+
+.jinjer-link{
+    color:orange;
+    text-decoration: none;
+    font-size: 16px;
+}
 
 
