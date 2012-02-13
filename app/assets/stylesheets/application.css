@@ -41,6 +41,28 @@ h3{
     text-align: center;
 }
 
+.text-left{
+        text-align: left;
+}
+
+.text-right{
+        text-align: right;
+}
+
+.text-center{
+        text-align: center;
+}
+
+.float-left{
+        float: left;
+        margin-right:10px;
+}
+
+.float-right{
+        float: right;
+        margin-left:10px;
+}
+
 .green-glow{
     color: #0c0;
     text-shadow: -1px 1px 8px green, 1px -1px 8px #0c0;
