@@ -63,6 +63,11 @@ h3{
         margin-left:10px;
 }
 
+.footer-text{
+        font-size: 16px;
+        /*margin-bottom:-5px;*/
+}
+
 .green-glow{
     color: #0c0;
     text-shadow: -1px 1px 8px green, 1px -1px 8px #0c0;
