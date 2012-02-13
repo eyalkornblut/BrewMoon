@@ -57,7 +57,7 @@
       <file leaf-file-name="header.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/header.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -75,7 +75,7 @@
       <file leaf-file-name="footer.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,7 +93,7 @@
       <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="0" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.036876354">
+            <state line="79" column="0" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.29501083">
               <folding />
             </state>
           </provider>
@@ -126,9 +126,9 @@
         <option value="$PROJECT_DIR$/app/views/pages/orders.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pages.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/header.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       </list>
     </option>
   </component>
@@ -694,23 +694,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/header.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/header.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.036876354">
+        <state line="79" column="0" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.29501083">
           <folding />
         </state>
       </provider>
