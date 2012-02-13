@@ -63,17 +63,6 @@ h3{
         margin-left:10px;
 }
 
-.footer-text{
-        font-size: 16px;
-        /*margin-bottom:-5px;*/
-}
-
-.jinjer-link{
-    color:orange;
-    text-decoration: none;
-    font-size: 16px;
-}
-
 .green-glow{
     color: #0c0;
     text-shadow: -1px 1px 8px green, 1px -1px 8px #0c0;
@@ -91,15 +80,22 @@ hr{
     border: 0;
 }
 
-<!--[if IE]>
- hr {
-    display : list-item;
-    list-style : url(border_horisontal.jpg) inside;
-    filter : alpha(opacity=0);
-    margin-left: -10px;
-    width : 0;
-     height: 10px;
-  }
-<![endif]-->
+/*<!--[if IE]>*/
+ /*hr {*/
+    /*display : list-item;*/
+    /*list-style : url(border_horisontal.jpg) inside;*/
+    /*filter : alpha(opacity=0);*/
+    /*margin-left: -10px;*/
+    /*width : 0;*/
+     /*height: 10px;*/
+  /*}*/
+/*<![endif]-->*/
+
+/*Header Styles*/
+/*Heroku doesnt accepts the dedicated header.css.scc file*/
+
+/*Footer Styles*/
+/*Heroku doesnt accepts the dedicated footer.css.scc file*/
+
 
 
