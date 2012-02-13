@@ -75,7 +75,7 @@
       <file leaf-file-name="footer.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="9" selection-end="197" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,7 +93,7 @@
       <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="13" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.5943601">
+            <state line="75" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.25813448">
               <folding />
             </state>
           </provider>
@@ -703,14 +703,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="9" selection-end="197" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="13" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.5943601">
+        <state line="75" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.25813448">
           <folding />
         </state>
       </provider>

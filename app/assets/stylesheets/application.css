@@ -74,6 +74,22 @@ h3{
     text-shadow: -1px 1px 8px blue, 1px -1px 8px #06f;
 }
 
+/*Footer Styles*/
+/*Heroku doesnt accepts the dedicated footer.css.scc file*/
+.footer-text{
+        font-size: 16px;
+        margin-bottom:-5px;
+}
+
+.jinjer-link{
+    color:orange;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+/*The rest of the original application styles*/
+/*These part cause an error in the styles after it.*/
 hr{
     background: url("border_horisontal.jpg");
     height: 10px;
@@ -92,11 +108,7 @@ hr{
 <![endif]-->
 
 
-/*Header Styles*/
-/*Heroku doesnt accepts the dedicated header.css.scc file*/
 
-/*Footer Styles*/
-/*Heroku doesnt accepts the dedicated footer.css.scc file*/
 
 
 
