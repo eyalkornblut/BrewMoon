@@ -75,7 +75,7 @@ h3{
 }
 
 /*Footer Styles*/
-/*Heroku doesnt accepts the dedicated footer.css.scc file*/
+/*The 'if IE' in this file invokes an error in the dedicated footer scss file under heroku */
 .footer-text{
         font-size: 16px;
         margin-bottom:-5px;
@@ -87,7 +87,6 @@ h3{
     font-size: 16px;
 }
 
-
 /*The rest of the original application styles*/
 /*These part cause an error in the styles after it.*/
 hr{
@@ -96,7 +95,7 @@ hr{
     border: 0;
 }
 
-<!--[if gt IE 6]>
+<!--[if IE ]>
  hr {
     display : list-item;
     list-style : url(border_horisontal.jpg) inside;
