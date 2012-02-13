@@ -72,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.07375271">
+            <state line="1" column="4" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+            <state line="66" column="0" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.55748373">
               <folding />
             </state>
           </provider>
@@ -701,16 +701,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+        <state line="1" column="4" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/footer.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.07375271">
+        <state line="66" column="0" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.55748373">
           <folding />
         </state>
       </provider>
