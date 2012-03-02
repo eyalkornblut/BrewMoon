@@ -23,4 +23,8 @@ class PagesController < ApplicationController
     @title = "The beers"
   end
 
+  def beers
+    @title = "Keep alive"
+  end
+
 end
