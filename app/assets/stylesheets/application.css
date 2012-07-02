@@ -27,6 +27,10 @@ body{
     padding: 20px;
 }
 
+.upper_page_container {
+    min-height: 784px;
+}
+
 h1{
     color: white;
 }
