@@ -39,6 +39,13 @@
         }
     }
 
+    h1 {
+        display: inline-block;
+        &#body_content_title {
+            display: none;
+        }
+    }
+
 }
 
 
