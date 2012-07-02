@@ -18,6 +18,9 @@ gem 'json'
 gem 'refinerycms', '~>2.0.5'
 gem 'refinerycms-i18n', '~> 2.0.0'
 
+gem 'fog'
+gem 'pg'
+
 group :development do
   group :development, :test do
   gem 'sqlite3'
