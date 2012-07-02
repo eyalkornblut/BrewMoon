@@ -1,19 +1,10 @@
 <header>
   <nav class="round">
     <hr/>
-    <ul>
-      <li><%= link_to "Home", root_path %></li>
-      <li>|</li>
-      <li><%= link_to "The Beers", beers_path %></li>
-      <li>|</li>
-      <li><%= link_to "Brewing", brewing_path %></li>
-      <li>|</li>
-      <li><%= link_to "The Café", cafe_path %></li>
-      <li>|</li>
-      <li><%= link_to "The Team", team_path %></li>
-      <li>|</li>
-      <li><%= link_to "Buy Beer", orders_path, :class => 'blue-glow'  %></li>
-    </ul>
+      <%= render(:partial => "/refinery/menu", :locals => {
+                   :dom_id => 'menu',
+                   :css => 'menu'
+                 }) %>
     <hr/>
   </nav>
 </header>
