@@ -1,39 +1,38 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title><%= title %></title>
-    <%= csrf_meta_tag %>
-    <%= render 'layouts/stylesheets' %>
-    <%= stylesheet_link_tag "application" %>
-    <%= javascript_include_tag "application" %>
-  </head>
+<%= render '/refinery/html_tag' %>
+  <% site_bar = render('/refinery/site_bar', :head => true) -%>
+  <%= render '/refinery/head' %>
   <body>
-    <div class="container">
+    <%= site_bar -%>
+    <%= render '/refinery/ie6check' if request.env['HTTP_USER_AGENT'] =~ /MSIE/ -%>
+    <div id="page_container">
 
-      <div class="span-24 last">
+      <div class="container">
 
-        <div class="left span-6">
-          <%= render 'layouts/left' %>
+        <div class="span-24 last">
+
+          <div class="left span-6">
+            <%= render 'layouts/left' %>
+          </div>
+
+          <div class="span-18 last" id="header">
+            <%= render 'layouts/header' %>
+            <p/>
+            <section class="pages round" id="page">
+              <div class="span-18 last">
+                  <%= yield %>
+              </div>
+            </section>
+          </div>
         </div>
 
-        <div class="span-18 last">
-          <%= render 'layouts/header' %>
+        <div class="span-24 prepend-top last">
           <p/>
-          <section class="pages round">
-            <% flash.each do |key, value| %>
-              <%= content_tag(:div, value, :class => "flash #{key}") %>
-            <% end %>
-            <div class="span-18 last">
-                <%= yield %>
-            </div>
-          </section>
+          <%= render 'layouts/footer' %>
         </div>
       </div>
 
-      <div class="span-24 prepend-top last">
-        <p/>
-        <%= render 'layouts/footer' %>
-      </div>
     </div>
+    <%= render '/refinery/javascripts' %>
   </body>
 </html>
