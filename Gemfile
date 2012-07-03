@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'heroku'
 gem 'execjs'
 gem 'therubyrhino'
+gem 'thin'
 
 gem 'json'
 gem 'refinerycms', '~>2.0.5'
@@ -30,7 +31,6 @@ group :development do
   gem 'rspec-rails', '2.6.1'
   gem 'annotate', '2.4.0'
   gem 'faker', '0.3.1'
-  gem 'thin'
 end
 
 group :test do
@@ -42,7 +42,5 @@ end
 
 group :production do
   # gems specifically for Heroku go here
-  gem "pg"
-  gem 'thin'
 end
 
