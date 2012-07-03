@@ -99,7 +99,7 @@ hr{
     border: 0;
 }
 
-<!--[if IE]>
+/*<!--[if IE]>
  hr {
     display : list-item;
     list-style : url(border_horisontal.jpg) inside;
@@ -109,9 +109,4 @@ hr{
     height: 10px;
   }
 <![endif]-->
-
-
-
-
-
-
+*/
