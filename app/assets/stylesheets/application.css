@@ -99,19 +99,19 @@ hr{
     border: 0;
 }
 
-<!--[if IE ]>
+/*<!--[if IE ]>
  hr {
     display : list-item;
     list-style : url(border_horisontal.jpg) inside;
     filter : alpha(opacity=0);
     margin-left: -10px;
     width : 0;
-     height: 10px;
+    height: 10px;
   }
 <![endif]-->
 
 
 
-
+*/
 
 
