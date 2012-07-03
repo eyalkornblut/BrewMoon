@@ -21,15 +21,16 @@ gem 'refinerycms-i18n', '~> 2.0.0'
 gem 'fog'
 gem 'pg'
 
-group :development do
-  group :development, :test do
+group :development, :test do
   gem 'sqlite3'
 end
+
+group :development do
   #gem 'sqlite3-ruby', :require => 'sqlite3'
   gem 'rspec-rails', '2.6.1'
   gem 'annotate', '2.4.0'
   gem 'faker', '0.3.1'
-  gem 'thin'
+  # gem 'thin'
 end
 
 group :test do
